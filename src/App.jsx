@@ -31,6 +31,7 @@ function App() {
   return(
     <>
     <div className="dashboard">
+      <h1>IHR 115</h1>
       <h1>IP Address Tracker</h1>
       <input type="text"
       value={ip}
